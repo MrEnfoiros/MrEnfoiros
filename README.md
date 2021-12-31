@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrEnfoiros
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning C, Python, Java and Japanese :).
+- 🌱 I’m currently learning C++, Python, Java and Japanese :).
 - 📫 How to reach me : antoine.vidal@ens.uvsq.fr
 
 <!---
