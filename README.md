@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++, Python, Java and Japanese/日本語.
 - 📫 How to reach me : antoine.vidal@ens.uvsq.fr
 
-Thanks to @xelaco for recommending me this website
+Thanks to @xelaco for recommending me this website.
 
-The Anki pdf in this repository is just some statistics about my deck I'm using to practice japanese vocabulary. Original Anki deck here : https://ankiweb.net/shared/info/2112246396
+
+If you are curious about my Japanese level you can check the .html files on my repository.
