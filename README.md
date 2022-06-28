@@ -4,3 +4,5 @@
 - 📫 How to reach me : antoine.vidal@ens.uvsq.fr or avidal78390@gmail.com
 
 Thanks to @xelaco for recommending me this website.
+
+More information on my website : https://vidal-antoine.github.io/
