@@ -1,5 +1,5 @@
 ## About me
-Hi, I’m VIDAL Antoine. I’m interested in software engineering. I like to study Japanese / 日本語 in my free time.
+Hi, I’m VIDAL Antoine. I’m interested in software engineering. I like studying Japanese / 日本語 in my free time.
 
 ## Skills
 
