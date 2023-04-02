@@ -1,5 +1,6 @@
 ## About me
-Hello, I’m VIDAL Antoine. I’m interested in software engineering. I like studying Japanese / 日本語 in my free time (currently at JLPT N3 / B1 level).
+Hello, I’m VIDAL Antoine. I’m interested in software engineering. I'd like to be a back-end developer.
+I like studying Japanese / 日本語 in my free time (currently at JLPT N3 / B1 level).
 
 Thanks to [xelaco](https://github.com/xelaco) for recommending me this website.
 
@@ -27,6 +28,19 @@ I also have basic knowledge of assembly (mainly x86 and AVX / SSE).
 ### Other tools
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+### Languages / Tools I'd like to learn
+
+| Domain         | Languages     |
+| ------------- | ------------- |
+| Programming Languages and librairies | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) |
+| DevOps tools        | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| Databases       |  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| Windows-related tools | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)|
+
+
 
 
 ## How to reach me
